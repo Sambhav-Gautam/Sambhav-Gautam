@@ -18,10 +18,10 @@
 
 ## 🚀 About Me
 
-🌑 **Currently exploring the shadows of Full-Stack Development, Microservices, Cloud Platforms, AI/ML, and Android App Development**  
-🦇 **Projects forged in code**: [GitHub](https://github.com/SAMBHAVGAUTAM)  
-📡 **Signal me**: sambhav22435@iiitd.ac.in  
-🔗 **Connect in the dark**: [LinkedIn](https://www.linkedin.com/in/SAMBHAVGAUTAM) | [LeetCode](https://leetcode.com/SAMBHAVGAUTAM)
+🌑 **Currently exploring Full-Stack Development, Microservices, Cloud Platforms, AI/ML, and Android App Development**  
+🦇 **Projects **: [GitHub](https://github.com/SAMBHAVGAUTAM)  
+📡 **Contact**: sambhav22435@iiitd.ac.in  
+🔗 **Connect with me on**: [LinkedIn](https://www.linkedin.com/in/SAMBHAVGAUTAM) | [LeetCode](https://leetcode.com/SAMBHAVGAUTAM)
 
 ---
 
