@@ -1,16 +1,32 @@
-# Hi, I'm Sambhav Gautam 👋
+<h1 align="center">Sambhav Gautam 👋</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SAMBHAVGAUTAM&style=flat-square&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SAMBHAVGAUTAM&style=flat-square&color=ffd700&label=Profile+Views" alt="Profile Views">
+</p>
+
+<p align="center">
+  <strong>Full-Stack Developer | AI/ML Enthusiast | Android App Developer</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SAMBHAVGAUTAM"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffd700" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/SAMBHAVGAUTAM"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffd700" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/SAMBHAVGAUTAM"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=181717" alt="LeetCode"></a>
+</p>
+
+---
 
 ## 🚀 About Me
-**Full-Stack Developer | AI/ML Enthusiast | Android App Developer**
 
-- 🌱 Currently delving into **Full-Stack Development, Microservices, Cloud Platforms, AI/ML, and Android App Development**
-- 👨‍💻 Explore my projects: [GitHub](https://github.com/SAMBHAVGAUTAM)
-- 📫 Reach out: **sambhav22435@iiitd.ac.in**
-- 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/SAMBHAVGAUTAM) | [LeetCode](https://leetcode.com/SAMBHAVGAUTAM)
+🌑 **Currently exploring the shadows of Full-Stack Development, Microservices, Cloud Platforms, AI/ML, and Android App Development**  
+🦇 **Projects forged in code**: [GitHub](https://github.com/SAMBHAVGAUTAM)  
+📡 **Signal me**: sambhav22435@iiitd.ac.in  
+🔗 **Connect in the dark**: [LinkedIn](https://www.linkedin.com/in/SAMBHAVGAUTAM) | [LeetCode](https://leetcode.com/SAMBHAVGAUTAM)
+
+---
 
 ## 🛠 Tech Stack
+
 ```json
 {
   "Languages": ["JavaScript", "TypeScript", "Kotlin", "Python", "C++", "Java"],
@@ -20,3 +36,5 @@
   "Tools": ["Git", "Docker", "REST APIs"],
   "Other": ["Microservices", "Cloud Platforms", "Hugging Face API", "MVVM", "Coroutines", "Navigation Compose"]
 }
+
+```
