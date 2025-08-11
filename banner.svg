@@ -1,39 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1920" height="500" viewBox="0 0 1920 500">
   <defs>
-    <!-- Matrix style background -->
+    <!-- Dark matrix style background -->
     <linearGradient id="matrixBg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#000000"/>
-      <stop offset="100%" stop-color="#001a00"/>
+      <stop offset="0%" stop-color="#000"/>
+      <stop offset="100%" stop-color="#1a1a1a"/>
     </linearGradient>
     <pattern id="matrixRain" width="20" height="20" patternUnits="userSpaceOnUse">
-      <text x="0" y="15" font-size="16" fill="#00FF00" font-family="monospace">0</text>
-      <text x="10" y="15" font-size="16" fill="#00FF00" font-family="monospace">1</text>
+      <text x="0" y="15" font-size="16" fill="#555" font-family="monospace">0</text>
+      <text x="10" y="15" font-size="16" fill="#555" font-family="monospace">1</text>
     </pattern>
   </defs>
 
   <rect width="1920" height="500" fill="url(#matrixBg)"/>
-  <rect width="1920" height="500" fill="url(#matrixRain)" opacity="0.15"/>
+  <rect width="1920" height="500" fill="url(#matrixRain)" opacity="0.1"/>
 
   <!-- Name -->
-  <text x="50%" y="120" text-anchor="middle" font-size="64" fill="#00FF00" font-family="Courier New" font-weight="bold">Sambhav Gautam</text>
+  <text x="50%" y="100" text-anchor="middle" font-size="64" fill="#ccc" font-family="Courier New" font-weight="bold">Sambhav Gautam</text>
 
   <!-- Subtitle -->
-  <text x="50%" y="170" text-anchor="middle" font-size="28" fill="#00FF00" font-family="Courier New">Full-Stack Developer | AI/ML Enthusiast | Android App Developer</text>
+  <text x="50%" y="150" text-anchor="middle" font-size="28" fill="#aaa" font-family="Courier New">Full-Stack Developer | AI/ML Enthusiast | Android App Developer</text>
 
   <!-- Links -->
-  <a href="https://github.com/Sambhav-Gautam">
-    <text x="640" y="240" font-size="24" fill="#00FF00" font-family="Courier New">GitHub</text>
+  <a href="https://github.com/Sambhav-Gautam" target="_blank">
+    <text x="700" y="220" font-size="22" fill="#ccc" font-family="Courier New">GitHub</text>
   </a>
-  <a href="https://www.linkedin.com/in/sambhav-gautam-66b0a7253/">
-    <text x="900" y="240" font-size="24" fill="#00FF00" font-family="Courier New">LinkedIn</text>
+  <a href="https://www.linkedin.com/in/sambhav-gautam-66b0a7253/" target="_blank">
+    <text x="900" y="220" font-size="22" fill="#ccc" font-family="Courier New">LinkedIn</text>
   </a>
-  <a href="https://leetcode.com/u/sambhav22435/">
-    <text x="1180" y="240" font-size="24" fill="#00FF00" font-family="Courier New">LeetCode</text>
+  <a href="https://leetcode.com/u/sambhav22435/" target="_blank">
+    <text x="1120" y="220" font-size="22" fill="#ccc" font-family="Courier New">LeetCode</text>
   </a>
 
   <!-- Email -->
-  <text x="50%" y="300" text-anchor="middle" font-size="22" fill="#00FF00" font-family="Courier New">sambhav22435@iiitd.ac.in</text>
+  <text x="50%" y="280" text-anchor="middle" font-size="22" fill="#aaa" font-family="Courier New">sambhav22435@iiitd.ac.in</text>
 
-  <!-- Tech Stack -->
-  <text x="50%" y="380" text-anchor="middle" font-size="20" fill="#00FF00" font-family="Courier New" xml:space="preserve">JavaScript • TypeScript • Kotlin • Python • C++ • Java • React • Next.js • React Native • Jetpack Compose • Node.js • Express.js • MongoDB • Git • Docker • REST APIs • Microservices • Cloud Platforms • Hugging Face API • MVVM • Coroutines • Navigation Compose</text>
+  <!-- Tech Stack split into subsections -->
+  <text x="50%" y="350" text-anchor="middle" font-size="18" fill="#888" font-family="Courier New">JavaScript • TypeScript • Kotlin • Python • C++ • Java</text>
+  <text x="50%" y="380" text-anchor="middle" font-size="18" fill="#888" font-family="Courier New">React • Next.js • React Native • Jetpack Compose • Node.js • Express.js • MongoDB</text>
+  <text x="50%" y="410" text-anchor="middle" font-size="18" fill="#888" font-family="Courier New">Git • Docker • REST APIs • Microservices • Cloud Platforms • Hugging Face API</text>
+  <text x="50%" y="440" text-anchor="middle" font-size="18" fill="#888" font-family="Courier New">MVVM • Coroutines • Navigation Compose</text>
 </svg>
