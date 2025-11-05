@@ -2,7 +2,7 @@
 <!-- 🟢 MAIN MATRIX BANNER -->
 <!-- ============================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sambhav-Gautam/Sambhav-Gautam/main/assets/banner-top.svg" alt="Sambhav Gautam Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sambhav-Gautam/Sambhav-Gautam/main/banner-top.svg" alt="Sambhav Gautam Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00ff99;">Sambhav Gautam</span></h1>
@@ -14,7 +14,7 @@
 <!-- 🧭 ABOUT ME -->
 <!-- ============================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sambhav-Gautam/Sambhav-Gautam/main/assets/about-me.svg" width="90%" alt="About Me Banner"/>
+  <img src="https://raw.githubusercontent.com/Sambhav-Gautam/Sambhav-Gautam/main/about-me.svg" width="90%" alt="About Me Banner"/>
 </p>
 
 💡 I’m passionate about **building scalable full-stack apps**, **experimenting with AI/ML**, and **developing intuitive Android experiences**.  
@@ -27,7 +27,7 @@
 <!-- ⚙️ TECH STACK -->
 <!-- ============================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sambhav-Gautam/Sambhav-Gautam/main/assets/tech-banner.svg" width="90%" alt="Tech Stack Banner"/>
+  <img src="https://raw.githubusercontent.com/Sambhav-Gautam/Sambhav-Gautam/main/tech-banner.svg" width="90%" alt="Tech Stack Banner"/>
 </p>
 
 ### 💻 Languages  
@@ -59,7 +59,7 @@
 <!-- 🌐 CONNECT WITH ME -->
 <!-- ============================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sambhav-Gautam/Sambhav-Gautam/main/assets/contact-banner.svg" width="80%" alt="Contact Banner"/>
+  <img src="https://raw.githubusercontent.com/Sambhav-Gautam/Sambhav-Gautam/main/contact-banner.svg" width="80%" alt="Contact Banner"/>
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@
 <!-- 🖤 FOOTER -->
 <!-- ============================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sambhav-Gautam/Sambhav-Gautam/main/assets/footer.svg" alt="Footer" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sambhav-Gautam/Sambhav-Gautam/main/footer.svg" alt="Footer" width="100%" />
 </p>
 
 <p align="center">
